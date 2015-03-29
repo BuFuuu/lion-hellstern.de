@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(234, 234, 234);
+}
+
+.center-div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: rgba(223, 205, 81, 0.03);
+}
+
+.center-text {
+  text-align: center;
+}
+
+.center-img {
+  margin-left: auto;
+  margin-right: auto;
+}
