@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(234, 234, 234);
+  background: url("img/bg_dog_cite.jpg") no-repeat;
+  background-size: cover;
 }
 
 .center-div {
@@ -14,6 +15,14 @@ body {
 }
 
 .center-img {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 2em;
+  margin-top: 2em;
+
+  height:auto;
+  width:auto;
+  max-width:420;
+  max-height:420px;
+
+  border-radius: 220px;
+  opacity: 0.3;
 }
