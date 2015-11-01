@@ -1,6 +1,14 @@
 <html>
   <head>
-    <title>Deploy</title>
+    <title>Hellstern</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
   </head>
-  <body>Erster deploy!</body>
+  <body>
+    <a href="ba.html">
+      <img class="center-img" src="img/fuck.gif" alt="fucktrix">
+    </a>
+    <a href="travel.html">
+      <img class="center-img" src="img/travel.gif" alt="travelpussi">
+    </a>
+  </body>
 </html>
