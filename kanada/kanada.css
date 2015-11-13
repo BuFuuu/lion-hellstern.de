@@ -2,6 +2,10 @@ body {
   background-color: #f1f1f1;
 }
 
+b {
+ font-size: 20px;
+}
+
 .center-div {
   margin-left: auto;
   margin-right: auto;
@@ -37,7 +41,8 @@ body {
 }
 
 .img {
-    max-height: 30em;
+    max-height: 35em;
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
