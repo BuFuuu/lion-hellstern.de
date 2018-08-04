@@ -20,7 +20,7 @@ b {
   font-size: 46px;
   text-shadow: 0 1px 15px rgba(212, 212, 212, 0.69);
   text-align: center;
-} 
+}
 .center-text {
   font-family: Raleway,Helvetica,Arial,Verdana,sans-serif;
   font-size: 18px;
@@ -50,35 +50,22 @@ b {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* unvisited link */
 a:link {
-        color: black;
-    }
+  color: black;
+}
 
-    /* visited link */
-    a:visited {
-            color: green;
-        }
+/* visited link */
+a:visited {
+  color: green;
+}
 
-        /* mouse over link */
-        a:hover {
-                color: hotpink;
-            }
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
 
-            /* selected link */
-            a:active {
-                    color: blue;
-                }
-
-
+/* selected link */
+a:active {
+  color: blue;
+}

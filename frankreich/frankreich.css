@@ -1,0 +1,84 @@
+body {
+  background-color: #f1f1f1;
+}
+
+b {
+ font-size: 20px;
+}
+
+.center-div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  background-color: #fff;
+}
+
+.h1 {
+  font-family: Raleway,Helvetica,Arial,Verdana,sans-serif;
+  font-weight: 500;
+  line-height: 1.60em;
+  font-size: 46px;
+  text-shadow: 0 1px 15px rgba(212, 212, 212, 0.69);
+  text-align: center;
+} 
+.center-text {
+  font-family: Raleway,Helvetica,Arial,Verdana,sans-serif;
+  font-size: 18px;
+  text-shadow: 0 1px 15px rgba(212, 212, 212, 0.69);
+  text-align: center;
+  opacity: 0.81;
+
+  margin-top: 3em;
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.center-img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.img {
+    max-height: 35em;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* unvisited link */
+a:link {
+        color: black;
+    }
+
+    /* visited link */
+    a:visited {
+            color: green;
+        }
+
+        /* mouse over link */
+        a:hover {
+                color: hotpink;
+            }
+
+            /* selected link */
+            a:active {
+                    color: blue;
+                }
+
+
